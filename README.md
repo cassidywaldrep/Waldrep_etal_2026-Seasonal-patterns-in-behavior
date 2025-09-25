@@ -15,15 +15,21 @@ ___
 Cassidy L. Waldrep
 Department of Biology, University of Saskatchewan, Saskatoon, SK, Canada
 
-John M. Coluccy
+John M. Coluccy 
 Ducks Unlimited, Inc., Great Lakes/Atlantic Region, Ann Arbor, MI, USA
 
-Josh C. Stiller
+Josh C. Stiller 
 New York State Department of Environmental Conservation, Albany, NY, USA
 
-Jacob N. Straub
+Jacob N. Straub 
 SUNY Brockport, Brockport, NY, USA
 
-Mitch D. Weegman  
+Mitch D. Weegman   
 Department of Biology, University of Saskatchewan, Saskatoon, SK, Canada
+
+
 ___
+### Files
+
+
+### Data file column names
