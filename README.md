@@ -1,4 +1,4 @@
-# Time–activity budgets of eastern mallards: Seasonal patterns and differences among migratory strategies<img width="468" height="65" alt="image" src="https://github.com/user-attachments/assets/00a74ffb-60a5-4b13-8fd3-c66fa4c3d0f3" />
+# Time–activity budgets of eastern mallards: Seasonal patterns and differences among migratory strategies
 
 This repository contains the data and code used in the following publication:
 
