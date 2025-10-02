@@ -18,11 +18,17 @@ Department of Biology, University of Saskatchewan, Saskatoon, SK, Canada
 John M. Coluccy 
 Ducks Unlimited, Inc., Great Lakes/Atlantic Region, Ann Arbor, MI, USA
 
+Nathaniel R. Huck
+Minnesota Department of Natural Resources, Brainerd, MN, USA
+
 Josh C. Stiller 
 New York State Department of Environmental Conservation, Albany, NY, USA
 
 Jacob N. Straub 
 SUNY Brockport, Brockport, NY, USA
+
+Mathieu Tétreault
+Canadian Wildlife Service, Environment and Climate Change Canada, Québec, QC, Canada
 
 Mitch D. Weegman   
 Department of Biology, University of Saskatchewan, Saskatoon, SK, Canada
