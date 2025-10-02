@@ -36,6 +36,6 @@ Department of Biology, University of Saskatchewan, Saskatoon, SK, Canada
 
 ___
 ### Files
-
+`github_modelcode.R`: NIMBLE model for multinomial logistic regression for modeling feeding, preening, resting, and flying, indexing on substage and migratory strategyy. Note that the data used for this model is not on the GitHub. To protect the integrity of the project's data, instead, a summarized version per substage is attached.
 
 ### Data file column names
