@@ -24,43 +24,45 @@ Minnesota Department of Natural Resources, Brainerd, MN, USA
 Josh C. Stiller     
 New York State Department of Environmental Conservation, Albany, NY, USA
 
-Jacob N. Straub    
+Jacob N. Straub       
 SUNY Brockport, Brockport, NY, USA
 
-Nathaniel R. Huck
+Nathaniel R. Huck     
 Pennsylvania Game Commission, Harrisburg, PA, USA
 
-Ted S. Barney
+Ted S. Barney     
 Canadian Wildlife Service, Environment and Climate Change Canada, Sackville, NB, Canada
 
-Gary R. Costanzo
+Gary R. Costanzo         
 Virginia Department of Wildlife Resources, Williamsburg, VA, USA
 
-Austin H. Damminger
+Austin H. Damminger       
 New Jersey Fish and Wildlife, Woodbine, NJ, USA
 
-Doug L. Howell
+Doug L. Howell      
 North Carolina Wildlife Resources Commission, Edenton, NC, USA
 
-Theodore C. Nichols
+Theodore C. Nichols     
 New Jersey Fish and Wildlife, Woodbine, NJ, USA
-
-Daria J. Sparks
+  
+Daria J. Sparks       
 Virginia Department of Wildlife Resources, Williamsburg, VA, USA
 
-Kelsey M. Sullivan
+Kelsey M. Sullivan    
 Maine Department of Inland Fisheries and Wildlife, Bangor, ME, USA
 
 Mathieu Tétreault         
 Canadian Wildlife Service, Environment and Climate Change Canada, Québec, QC, Canada
 
-Mitch D. Weegman     
+Mitch D. Weegman       
 Department of Biology, University of Saskatchewan, Saskatoon, SK, Canada
 
 
 ___
 ### Files
 `multinomialmodel.R`: NIMBLE model for multinomial logistic regression for modeling feeding, preening, resting, and flying, indexing on period and migratory strategy. Note that the data used for this model is not on the GitHub (daily behavior). To protect the integrity of the project's data, instead, a summarized version per period is attached.
+
+`summarized_timebudget_data_Oct2026.csv`: Summarized behavioral data to the period (i.e., season) for each individual. 
 
 ### Data file column names
 `bandnum_index`: 1046 unique individuals  
